@@ -1,5 +1,4 @@
-Hi there ✌️ I'm **Javier Smith**, an ⚡Electrical Engineer⚡ by trade, but please don't ask me to check the wiring inside your house, 
-might accidentally start a fire 🔥
+Hi there ✌️ I'm **Javier Smith**, an Electrical Engineer⚡ by trade, but Machine Learning Engineer 👨‍🏫 at heart
 
 - 🪅 My interests are mainly in the area of **Machine Learning** 📠 though I'm also into **Electronics** 💡 and **IoT** 🔗. I love working on projects that
 involve a mix of these disciplines.
