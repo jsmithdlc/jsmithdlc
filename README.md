@@ -1,7 +1,7 @@
 Hi there ✌️ I'm **Javier Smith**, an Electrical Engineer⚡ by trade, but Machine Learning Engineer 👨‍🏫 at heart
 
-- 🪅 My interests are mainly in the area of **Machine Learning** 📠, most recently studying Reinforcement Learning.
-- 🥏 In my spare time you can find me hiking 🥾, hanging out with friends 🍺, playing video games 👾 or reading a science fiction book 📖
+- 🪅 My interests are mainly in the area of **Machine Learning** 📠.
+- As of recent, I have been drawn into the world of 🎲 Reinforcement Learning.
 - You can contact me via email
 
 Cheers!
